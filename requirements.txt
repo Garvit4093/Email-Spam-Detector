@@ -95,7 +95,6 @@ pytweening==1.0.4
 pytz==2022.2.1
 pytz-deprecation-shim==0.1.0.post0
 pywhatkit==5.4
-pywin32==304
 pywinpty==2.0.7
 pyzmq==23.2.1
 qtconsole==5.3.1
